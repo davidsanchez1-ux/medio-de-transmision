@@ -16,7 +16,7 @@ Usan ondas como radio, microondas e infrarrojo. Permiten movilidad y comunicaci�
 La elección depende de la velocidad, distancia, costo y el tipo de red que se necesita.)*
 
 ## 🧱 Palabras clave 🧱.
-*(cable coaxial, fibra óptica, infrarrojo, par trenzado, ondas de radio)*
+*( cable coaxial, fibra óptica, infrarrojo, par trenzado, ondas de radio)*
 
 ---
 
